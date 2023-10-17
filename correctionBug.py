@@ -7,4 +7,4 @@ num1 = 10
 num2 = 0
 
 resultat = diviser_nombres(num1, num2)
-print(f"Résultat de la division : {resultat}")
+print(f"résultat de la division : {resultat}")
